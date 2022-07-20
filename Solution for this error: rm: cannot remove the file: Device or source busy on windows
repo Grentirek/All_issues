@@ -1,0 +1,6 @@
+This issue sometimes occurs in our own .git terminals or cmd terminals when we need to remove a folder.
+And really, i couldn't find the solution for "windows" on the internet. For that, i had to found the solution for this myself.
+The solution is very easy and a my old tactic. Restart your computer and quickly manually remove that folder. 
+You can delete it without the computer realizing that that folder has links on the internet or elsewhere.
+
+I hope this helped you.
