@@ -1,0 +1,11 @@
+ERROR:
+This is the full of that error: 
+
+Error : Could not find or load main class <example>
+Caused by: java.lang.ClassNotFoundException : <example>
+
+This errors solution is not mach hard but on internet have more detail and difficult solutions. You can take a look them on Youtube.
+I'll give you a simple solution if you're stuck.
+
+SOLUTION: |Not %100|
+You can go to the higher folder and rebuild your file. If you have made different projects in the higher folder, you can rebuild your project there as well(with copy-paste).
